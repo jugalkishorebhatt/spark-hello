@@ -10,3 +10,6 @@ minikube addons enable ingress
 Start ingress service
 
 kubectl apply -f ./kubernetes/minikube-ingress.yaml
+
+Docker Registry:
+https://hub.docker.com/repository/docker/jugalbhatt/spark-hadoop
